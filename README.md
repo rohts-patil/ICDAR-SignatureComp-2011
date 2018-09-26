@@ -1,0 +1,1 @@
+# ICDAR-SignatureComp-2011
